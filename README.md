@@ -1,2 +1,2 @@
 # classgroups
-little data analysis and manipulation for classgroups
+data analysis and manipulation for classgroups
